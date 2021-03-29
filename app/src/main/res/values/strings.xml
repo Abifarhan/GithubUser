@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari pengguna github</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="nama">Nama :</string>
+    <string name="pengikut">Pengikut :</string>
+    <string name="mengikuti">Mengikuti :</string>
+    <string name="gudang">Gudang :</string>
+    <string name="perusahaan">Perusahaan :</string>
+    <string name="ganti_bahasa">Ganti Bahasa</string>
+    <string name="nothing">Tidak ada</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="gambar_splash_screen">Gambar Splash Screen</string>
+    <string name="simpan_data">Simpan Data</string>
+    <string name="hapus">Hapus</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="alarm">alarm</string>
+    <string name="open_the_app">Hai, Kembali ke Aplikasi</string>
+    <string name="Hapus">Delete</string>
+    <string name="Alarm">Alarm</string>
+    <string name="image_widget">Image widget</string>
+</resources>

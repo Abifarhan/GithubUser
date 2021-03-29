@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search User Github</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="nama">Name :</string>
+    <string name="pengikut">Followers :</string>
+    <string name="mengikuti">Following :</string>
+    <string name="gudang">Repository :</string>
+    <string name="perusahaan">Company :</string>
+    <string name="ganti_bahasa">Change Language</string>
+    <string name="nothing">Nothing</string>
+    <string name="selamat_datang">Welcome</string>
+    <string name="gambar_splash_screen">Image Splash Screen</string>
+    <string name="simpan_data">Save Data</string>
+    <string name="hapus">Delete</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="alarm">alarm</string>
+    <string name="open_the_app">Hai, Get Back to the App</string>
+    <string name="Hapus">Delete</string>
+    <string name="Alarm">Alarm</string>
+    <string name="image_widget">Image widget</string>
+</resources>
